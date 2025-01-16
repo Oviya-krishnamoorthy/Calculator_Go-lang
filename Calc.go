@@ -1,4 +1,4 @@
-package Calc
+package main
 
 import (
 	"errors"
